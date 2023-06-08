@@ -7,6 +7,11 @@ pero como no escuche lo de subirlo a github
 yo hice los "comits" al servidor directamente 
 
 aun asi aca le muestro todo hacerca de mi calculadora
+
+en este caso les mostrare como copiar el proyecto tanto para windows como para ubuntu
+o de la misma forma a verlo desplegado en el servidor
+
+no siendo mas les muestro los pasos para el Ubuntu
 ## Ubuntu 
 
 
